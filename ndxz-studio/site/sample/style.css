@@ -1,0 +1,112 @@
+/**
+* CSS
+* 
+* @version 1.0
+* @author Vaska 
+* @author Gregory Cadar
+*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 12px;
+	font-family: Verdana, sans-serif;
+	background: #fff;
+}
+
+body.section-1 { }
+body.section-2 { }
+body.section-3 { }
+
+a:link { text-decoration: none; color:#000099 }
+a:active { text-decoration: none; color:#000099 }
+a:visited { text-decoration: none; color:#000099; }
+a:hover { text-decoration: underline; color:#000055 }
+
+a img { border: none; }
+
+#menu {
+    width: 190px;
+    overflow: auto;
+    top: 0;
+    bottom: 0;
+	left: 0;
+    position: fixed;
+    height: 100%;
+	padding-left: 10px;
+	padding-top: 5px;
+	overflow:hidden;
+	background-color: #eaeaea;
+	border-right: 1px solid #ababab;
+	/*border-top: 2px solid #afafafaf; */
+}
+
+#menu ul {
+	list-style: none;
+	margin: 0px 2px 12px 0px;
+	background-color: #FFFFFF;
+	padding-left: 8px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+#menu ul li{
+font-weight: 400;
+}
+
+#menu ul li.section-title { font-weight:bold }
+
+#content {
+    height: 100%;
+    margin: 0 0 0 210px;
+    top: 0;
+	-moz-border-radius: 8px;
+border-radius: 8px;
+margin-top:10px;
+}
+
+.container {
+    padding: 5px 5px 5px 5px;
+	
+}
+
+.content_block {
+background-color: #333; 
+width:500px; 
+height:200px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+margin-top:10px;
+
+}
+
+#content p { width: 450px; margin-bottom: 9px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 13px; }
+
+#content a:link, #content a:hover, #content a:visited {
+color: #FF6600
+
+
+}
+
+p {
+    margin: 0 0 0px 0;
+	
+}
+
+h1 { font-size: 32px; }
+h2 { font-size: 24px; }
+h3 { font-size: 16px; }
+h4 { font-size: 12px; }
+
+#img-container	{ margin: 0; padding: 0; }
+#img-container p	{ width: 400px; margin: 0; padding: 0 0 12px 0; }
+
+#once { clear: left; }
+
+canvas {
+
+                border: 1px solid #9C9898;
+
+            }
