@@ -1,7 +1,7 @@
-Site: dglw.net 
-Author: David Wolf
-Date: 12/30/14
-Archived, not active
+## Site: dglw.net 
+## Author: David Wolf
+## Date: 12/30/14
+## Archived, not active
 ====
 
 beta version of dglw.net 
