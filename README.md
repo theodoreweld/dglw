@@ -1,11 +1,20 @@
-Site: dglw.net
+Site: dglw.net 
 Author: David Wolf
 Date: 12/30/14
+Comment: Archived, not active
 ====
 
-beta version of dglw.net
-
+beta version of dglw.net 
 running Indexhibit, open-source PHP CMS
 Further information on the CMS can be found in the readme located in /ndxz-studio
 
-Test update from nitrous online IDE for Chromebook devel in the future 
+About Indexhibit
+=====
+
+indexhibit is a free, web based portfolio CMS.
+It is released under the terms of the GNU GENERAL PUBLIC LICENSE (see
+license.txt for details).
+
+* visit: http://www.indexhibit.org/
+       http://www.indexhibit.org/forum/
+
