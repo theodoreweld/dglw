@@ -1,7 +1,7 @@
 Site: dglw.net 
 Author: David Wolf
 Date: 12/30/14
-Comment: Archived, not active
+Archived, not active
 ====
 
 beta version of dglw.net 
